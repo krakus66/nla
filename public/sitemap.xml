@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://krakusbs.com/posts/</loc>
+    <lastmod>2021-02-01T20:59:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://krakusbs.com/</loc>
+    <lastmod>2021-02-01T20:59:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://krakusbs.com/posts/sunday4b/</loc>
+    <lastmod>2021-02-01T20:59:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakusbs.com/posts/sunday3b/</loc>
+    <lastmod>2021-01-24T20:59:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakusbs.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://krakusbs.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
